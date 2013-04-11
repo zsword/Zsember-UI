@@ -246,41 +246,6 @@ Zsember.defineNS('window.Window', {
             win.draggable('enable');
             win.resizable('enable');
             break;
-        case 'changeSize':
-            me.status = 'window';
-            WindowContent.find('iframe').css('display', 'none');
-            Window.animate({
-                opacity: 'show'
-            }, {
-                queue: true,
-                duration: settings.WindowAnimationSpeed,
-                easing: settings.WindowAnimation
-            });
-            WindowContainer.animate({
-                width: settings.WindowOuterWidth,
-                height: settings.WindowOuterHeight,
-                top: settings.WindowTop + $(window).scrollTop(),
-                left: settings.WindowLeft + $(window).scrollLeft()
-            }, {
-                queue: true,
-                duration: settings.WindowAnimationSpeed,
-                easing: settings.WindowAnimation
-            });
-            WindowContent.animate({
-                width: settings.WindowOuterWidth - settings.WindowBorderWidth,
-                height: settings.WindowOuterHeight - settings.WindowBorderHeight
-            }, {
-                queue: true,
-                duration: settings.WindowAnimationSpeed,
-                easing: settings.WindowAnimation
-            });
-            WindowContent.find('iframe').animate({
-                opacity: 'show'
-            }, {
-                queue: true,
-                duration: 2000
-            });
-            break;
         default:
             break;
         }
