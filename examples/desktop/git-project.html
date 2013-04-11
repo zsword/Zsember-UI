@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ZSember-UI GIT Project</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="../../resources/themes/default/button.css" rel="stylesheet" />
+<style type="text/css">
+body, html {
+	margin: 0;
+	padding: 0;
+}
+</style>
+<script type="text/javascript">
+var Zsember = window.top.Zsember,
+	$ = window.top.$;	
+window.onload = function() {
+	var context = document.body;
+	var btn = Zsember.widget('alinkBtn', {
+		'text': 'GitProject',
+		'href': 'http://github.com/zsword/Zsember-UI',
+		'target': '_gitZsemberUI'
+	});	
+	btn.appendTo($('#buttonsDiv', context)[0]);
+}
+</script>
+</head>
+
+<body>
+<div id="buttonsDiv"></div>
+<h3>Link Projects</h3>
+<ul>
+<li><a href="http://jquery.com/">jQuery</a></li>
+<li><a href="http://jqueryui.com/">jQueryUI</a></li>
+<li><a href="http://emberjs.com/">EmberJS</a></li>
+<li><a href="http://seajs.org">SeaJS</a></li>
+</ul>
+</body>
+</html>
