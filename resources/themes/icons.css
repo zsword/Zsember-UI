@@ -1,0 +1,165 @@
+/* System Shortcuts
+----------------------------------------------------------------------------------------------------*/
+.v-shortcut .shortcut {
+	background-image: url("../shortcuts/shortcut.png");
+}
+.v-shortcut .startmenu {
+	background-image: url("../shortcuts/startmenu.png");
+}
+.v-shortcut .computer {
+	background-image: url("../shortcuts/computer.png");
+}
+.v-shortcut .document {
+	background-image: url("../shortcuts/document.png");
+}
+/* Application Shortcuts
+----------------------------------------------------------------------------------------------------*/
+.v-shortcut .apple {
+	background-image: url("../shortcuts/apple.png");
+}
+.v-shortcut .bing {
+	background-image: url("../shortcuts/bing.png");
+}
+.v-shortcut .ebay {
+	background-image: url("../shortcuts/ebay.png");
+}
+.v-shortcut .facebook {
+	background-image: url("../shortcuts/facebook.png");
+}
+.v-shortcut .firefox {
+	background-image: url("../shortcuts/firefox.png");
+}
+.v-shortcut .flickr {
+	background-image: url("../shortcuts/flickr.png");
+}
+.v-shortcut .google {
+	background-image: url("../shortcuts/google.png");
+}
+.v-shortcut .baidu {
+	background-image: url("../shortcuts/baidu.png");
+}
+.v-shortcut .help {
+	background-image: url("../shortcuts/help.png");
+}
+.v-shortcut .soyos {
+	background-image: url("../shortcuts/soyos.png");
+}
+.v-shortcut .wikipedia {
+	background-image: url("../shortcuts/wikipedia.png");
+}
+.v-shortcut .wordpress {
+	background-image: url("../shortcuts/wordpress.png");
+}
+.v-shortcut .youtube {
+	background-image: url("../shortcuts/youtube.png");
+}
+
+/* Manager Shortcuts
+----------------------------------------------------------------------------------------------------*/
+.v-shortcut .groupMgr {
+	background-image: url("../shortcuts/apple.png");
+}
+.v-shortcut .staffMgr {
+	background-image: url("../shortcuts/apple.png");
+}
+.v-shortcut .projectMgr {
+	background-image: url("../shortcuts/apple.png");
+}
+.v-shortcut .expandMgr {
+	background-image: url("../shortcuts/apple.png");
+}
+.v-shortcut .incomeMgr {
+	background-image: url("../shortcuts/apple.png");
+}
+.v-shortcut .budgetMgr {
+	background-image: url("../shortcuts/apple.png");
+}
+.v-shortcut .taskMgr {
+	background-image: url("../shortcuts/apple.png");
+}
+.v-shortcut .personInfo {
+	background-image: url("../shortcuts/apple.png");
+}
+.v-shortcut .logout {
+	background-image: url("../shortcuts/apple.png");
+}
+/* StartMenu Icons
+----------------------------------------------------------------------------------------------------*/
+.v-startmenu .shortcut {
+	background-image: url("../startmenus/shortcut.png");
+}
+.v-startmenu .startmenu {
+	background-image: url("../startmenus/startmenu.png");
+}
+.v-startmenu .computer {
+	background-image: url("../startmenus/computer.png");
+}
+.v-startmenu .document {
+	background-image: url("../startmenus/document.png");
+}
+.v-startmenu .apple {
+	background-image: url("../startmenus/apple.png");
+}
+.v-startmenu .bing {
+	background-image: url("../startmenus/bing.png");
+}
+.v-startmenu .ebay {
+	background-image: url("../startmenus/ebay.png");
+}
+.v-startmenu .facebook {
+	background-image: url("../startmenus/facebook.png");
+}
+.v-startmenu .firefox {
+	background-image: url("../startmenus/firefox.png");
+}
+.v-startmenu .flickr {
+	background-image: url("../startmenus/flickr.png");
+}
+.v-startmenu .google {
+	background-image: url("../startmenus/google.png");
+}
+.v-startmenu .baidu {
+	background-image: url("../startmenus/baidu.png");
+}
+.v-startmenu .help {
+	background-image: url("../startmenus/help.png");
+}
+.v-startmenu .soyos {
+	background-image: url("../startmenus/soyos.png");
+}
+.v-startmenu .wikipedia {
+	background-image: url("../startmenus/wikipedia.png");
+}
+.v-startmenu .wordpress {
+	background-image: url("../startmenus/wordpress.png");
+}
+.v-startmenu .youtube {
+	background-image: url("../startmenus/youtube.png");
+}
+.v-startmenu .groupMgr {
+	background-image: url("../startmenus/apple.png");
+}
+.v-startmenu .staffMgr {
+	background-image: url("../startmenus/apple.png");
+}
+.v-startmenu .projectMgr {
+	background-image: url("../startmenus/apple.png");
+}
+.v-startmenu .expandMgr {
+	background-image: url("../startmenus/apple.png");
+}
+.v-startmenu .incomeMgr {
+	background-image: url("../startmenus/apple.png");
+}
+.v-startmenu .budgetMgr {
+	background-image: url("../startmenus/apple.png");
+}
+.v-startmenu .taskMgr {
+	background-image: url("../startmenus/apple.png");
+}
+.v-startmenu .personInfo {
+	background-image: url("../startmenus/apple.png");
+}
+.v-startmenu .logout {
+	background-image: url("../startmenus/apple.png");
+}

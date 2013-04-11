@@ -1,0 +1,218 @@
+/* Header Bar
+----------------------------------------------------------------------------------------------------*/
+.v-header-bar {
+    background-color: #CBDDF3;
+    background-image: -moz-linear-gradient(center top , #DAE7F6, #CDDEF3 45%, #ABC7EC 46%, #ABC7EC 50%, #B8CFEE 51%, #CBDDF3);
+    border: 1px solid #99BCE8;
+    box-shadow: 0 1px 0 0 #F4F8FD inset;
+    line-height: 25px;
+}
+.v-header-bar > .header-left {
+	float: left;
+	vertical-align: middle;
+}
+.v-header-bar > .header-right {
+    float: right;
+    font-size: 0;
+    padding: 1px 14px 5px 0;
+}
+.v-header-bar > .header-buttons {
+    float: right;
+    height: 100%;
+    padding-right: 5px;
+    padding-top: 5px;
+    vertical-align: middle;
+}
+.v-header-bar > .header-title {
+    font-size: 14px;
+    font-weight: bolder;
+    margin-left: 5px;	
+}
+.v-header-bar .icon-btn {
+    background-color: transparent;
+    background-image: url("images/header/header-buttons.gif");
+    background-repeat: no-repeat;
+    display: inline-table;
+    cursor: pointer;
+    height: 15px;
+    margin: 0;
+    overflow: hidden;
+    width: 15px;
+    margin-right: 2px;
+}
+.v-header-bar .icon-btn.icon-toggle {
+    background-position: 0 -60px;
+}
+.v-header-bar .icon-btn.icon-toggle:hover {
+    background-position: -15px -60px;
+}
+.v-header-bar .icon-btn.icon-toggle.collapsed {
+    background-position: 0 -75px;
+}
+.v-header-bar .icon-btn.icon-toggle.collapsed:hover {
+    background-position: -15px -75px;
+}
+.v-header-bar .icon-btn.icon-close {
+    background-position: 0 0;
+}
+.v-header-bar .icon-btn.icon-minimize {
+    background-position: 0 -15px;
+}
+.v-header-bar .icon-btn.icon-maximize {
+    background-position: 0 -30px;
+}
+.v-header-bar .icon-btn.icon-restore {
+    background-position: 0 -45px;
+}
+.v-header-bar .icon-btn.icon-gear {
+    background-position: 0 -90px;
+}
+.v-header-bar .icon-btn.icon-prev {
+    background-position: 0 -105px;
+}
+.v-header-bar .icon-btn.icon-next {
+    background-position: 0 -120px;
+}
+.v-header-bar .icon-btn.icon-pin {
+    background-position: 0 -135px;
+}
+.v-header-bar .icon-btn.icon-unpin {
+    background-position: 0 -150px;
+}
+.v-header-bar .icon-btn.icon-right {
+    background-position: 0 -165px;
+}
+.v-header-bar .icon-btn.icon-left {
+    background-position: 0 -180px;
+}
+.v-header-bar .icon-btn.icon-help {
+    background-position: 0 -300px;
+}
+.v-header-bar .icon-btn.icon-save {
+    background-position: 0 -285px;
+}
+.v-header-bar .icon-btn.icon-search {
+    background-position: 0 -270px;
+}
+.v-header-bar .icon-btn.icon-minus {
+    background-position: 0 -255px;
+}
+.v-header-bar .icon-btn.icon-plus {
+    background-position: 0 -240px;
+}
+.v-header-bar .icon-btn.icon-refresh {
+    background-position: 0 -225px;
+}
+.v-header-bar .icon-btn.icon-up {
+    background-position: 0 -210px;
+}
+.v-header-bar .icon-btn.icon-down {
+    background-position: 0 -195px;
+}
+.v-header-bar .icon-btn.icon-collapse {
+    background-position: 0 -345px;
+}
+.v-header-bar .icon-btn.icon-expand {
+    background-position: 0 -330px;
+}
+.v-header-bar .icon-btn.icon-print {
+    background-position: 0 -315px;
+}
+.v-header-bar .icon-btn.icon-expand-top, 
+.v-header-bar .icon-btn.icon-collapse-top {
+    background-position: 0 -210px;
+}
+.v-header-bar .icon-btn.icon-expand-bottom, 
+.v-header-bar .icon-btn.icon-collapse-bottom {
+    background-position: 0 -195px;
+}
+.v-header-bar .icon-btn.icon-expand-left, 
+.v-header-bar .icon-btn.icon-collapse-left {
+    background-position: 0 -180px;
+}
+.v-header-bar .icon-btn.icon-expand-right, 
+.v-header-bar .icon-btn.icon-collapse-right {
+    background-position: 0 -165px;
+}
+.v-header-bar .icon-btn.icon-close:hover {
+    background-position: -15px 0;
+}
+.v-header-bar .icon-btn.icon-minimize:hover {
+    background-position: -15px -15px;
+}
+.v-header-bar .icon-btn.icon-maximize:hover {
+    background-position: -15px -30px;
+}
+.v-header-bar .icon-btn.icon-restore:hover {
+    background-position: -15px -45px;
+}
+.v-header-bar .icon-btn.icon-gear:hover {
+    background-position: -15px -90px;
+}
+.v-header-bar .icon-btn.icon-prev:hover {
+    background-position: -15px -105px;
+}
+.v-header-bar .icon-btn.icon-next:hover {
+    background-position: -15px -120px;
+}
+.v-header-bar .icon-btn.icon-pin:hover {
+    background-position: -15px -135px;
+}
+.v-header-bar .icon-btn.icon-unpin:hover {
+    background-position: -15px -150px;
+}
+.v-header-bar .icon-btn.icon-right:hover {
+    background-position: -15px -165px;
+}
+.v-header-bar .icon-btn.icon-left:hover {
+    background-position: -15px -180px;
+}
+.v-header-bar .icon-btn.icon-down:hover {
+    background-position: -15px -195px;
+}
+.v-header-bar .icon-btn.icon-up:hover {
+    background-position: -15px -210px;
+}
+.v-header-bar .icon-btn.icon-refresh:hover {
+    background-position: -15px -225px;
+}
+.v-header-bar .icon-btn.icon-plus:hover {
+    background-position: -15px -240px;
+}
+.v-header-bar .icon-btn.icon-minus:hover {
+    background-position: -15px -255px;
+}
+.v-header-bar .icon-btn.icon-search:hover {
+    background-position: -15px -270px;
+}
+.v-header-bar .icon-btn.icon-save:hover {
+    background-position: -15px -285px;
+}
+.v-header-bar .icon-btn.icon-help:hover {
+    background-position: -15px -300px;
+}
+.v-header-bar .icon-btn.icon-print:hover {
+    background-position: -15px -315px;
+}
+.v-header-bar .icon-btn.icon-expand:hover {
+    background-position: -15px -330px;
+}
+.v-header-bar .icon-btn.icon-collapse:hover {
+    background-position: -15px -345px;
+}
+.v-header-bar .icon-btn.icon-expand-top:hover, 
+.v-header-bar .icon-btn.icon-collapse-top:hover {
+    background-position: -15px -210px;
+}
+.v-header-bar .icon-btn.icon-expand-bottom:hover, 
+.v-header-bar .icon-btn.icon-collapse-bottom:hover {
+    background-position: -15px -195px;
+}
+.v-header-bar .icon-btn.icon-expand-left:hover, 
+.v-header-bar .icon-btn.icon-collapse-left:hover {
+    background-position: -15px -180px;
+}
+.v-header-bar .icon-btn.icon-expand-right:hover, 
+.v-header-bar .icon-btn.icon-collapse-right:hover {
+    background-position: -15px -165px;
+}

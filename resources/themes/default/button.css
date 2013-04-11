@@ -1,0 +1,87 @@
+/* Buttons
+----------------------------------------------------------------------------------------------------*/
+.v-button {
+	display: inline-block;
+	background: transparent;
+	line-height: 24px;
+	cursor: pointer;
+	padding-left: 2px;
+}
+input.v-button,
+button.v-button {
+	background: none;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+.button-gray > span {
+	background-image: url("images/button/button_gray.png") !important;
+	background-position: 0 -24px;
+	height: 24px;
+	line-height: 24px;
+	//display: block;
+	float: left; 
+} 
+.button-gray > .btn-left,
+.button-gray > .btn-right {	
+	background-position: 0 0;
+	width: 6px;
+	text-indent: -1000px;
+}
+.button-gray .btn-right {
+	background-position: -8px 0;
+}
+.button-gray:hover > span {
+	background-position: 0 -72px;
+}
+.button-gray:hover > .btn-left {	
+	background-position: 0 -48px;
+}
+.button-gray:hover > .btn-right {
+	background-position: -8px -48px;
+}
+.button-gray:focus > span {
+    background-position: 0 -120px;
+}
+.button-gray:focus > .btn-left {	
+	background-position: 0 -96px;
+}
+.button-gray:focus > .btn-right {
+    background-position: -8px -96px;
+}
+/* Spinner
+----------------------------------------------------------------------------------------------------*/
+.v-spinner {
+	width: 17px;
+	font-size: 0;
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 22px;
+	padding: 0;
+}
+.v-spinner .spinner-up, 
+.v-spinner .spinner-down { 
+    background-color: white;
+    background-image: url("images/button/spinner.gif");
+    background-position: -51px 0;
+    height: 11px !important;
+    width: 17px !important;
+    display: inline-block;
+    vertical-align: middle;
+}
+.v-spinner .spinner-down {
+	background-position: -51px -11px;
+}
+.v-spinner .spinner-up:hover {
+	background-position: -68px 0;
+}
+.v-spinner .spinner-down:hover {
+	background-position: -68px -11px;
+}
+.v-spinner .spinner-up:focus {
+	background-position: -85px 0;
+}
+.v-spinner .spinner-down:focus {
+	background-position: -85px -11px;
+}

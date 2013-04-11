@@ -1,0 +1,163 @@
+/* Window
+----------------------------------------------------------------------------------------------------*/
+.v-window {
+	background: url("images/inactive/lines.png") 0px -100px; 
+	border-radius: 15px; 
+	overflow: hidden; 
+	display: block; 
+	position: absolute; 
+	-moz-border-radius: 10px;	
+}
+.v-window.full_window {
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.v-window .table-tl {
+	background: url("images/inactive/tl.png"); height: 9px; min-width: 9px;
+}
+.v-window .table-tm {
+	background: url("images/inactive/tm.png");
+}
+.v-window .table-tr {
+	background: url("images/inactive/tr.png"); height: 9px; min-width: 9px;
+}
+.v-window .table-rm {
+	background: url("images/inactive/rm.png");
+}
+.v-window .table-bl {
+	background: url("images/inactive/bl.png"); width: 9px; height: 9px;
+}
+.v-window .table-bm {
+	background: url("images/inactive/bm.png");
+}
+.v-window .table-br {
+	background: url("images/inactive/br.png"); width: 9px; height: 9px;
+}
+.v-window .table-lm {
+	background: url("images/inactive/lm.png");
+}
+.v-window .table-mm {
+	background: url("images/inactive/mm.png");
+}
+.active.v-window {
+	background: url("images/active/lines.png") 0px -400px;
+	position: absolute; 
+	z-index: 98;
+}
+.active.v-window .table-tl {
+	background: url("images/active/tl.png"); width: 9px; height: 9px;
+}
+.active.v-window .table-tm {
+	background: url("images/active/tm.png");
+}
+.active.v-window .table-tr {
+	background: url("images/active/tr.png"); width: 9px; height: 9px;
+}
+.active.v-window .table-rm {
+	background: url("images/active/rm.png");
+}
+.active.v-window .table-bl {
+	background: url("images/active/bl.png"); width: 9px; height: 9px;
+}
+.active.v-window .table-bm {
+	background: url("images/active/bm.png");
+}
+.active.v-window .table-br {
+	background: url("images/active/br.png"); width: 9px; height: 9px;
+}
+.active.v-window .table-lm {
+	background: url("images/active/lm.png");
+}
+.active.v-window .table-mm {
+	background: url("images/active/mm.png");
+}
+/* Window Content
+----------------------------------------------------------------------------------------------------*/
+.v-window .win-content {
+	border: 1px solid rgb(176, 198, 228); 
+}
+.v-window .table-border {
+	border: 1px solid rgb(176, 198, 228);
+}
+/* Window Title
+----------------------------------------------------------------------------------------------------*/
+.v-window .title {
+	margin: 10px 0px 0px 5px; left: 5px; 
+	color: rgb(51, 51, 51); 
+	padding-right: 5px; 
+	font-family: arial; font-size: 14px; 
+	cursor: default; text-shadow: #fff 0px 0px 5px;
+}
+.v-window .title img {
+	width: 24px; height: 24px;
+	margin-right: 5px;
+}
+/* Window TitleBar
+----------------------------------------------------------------------------------------------------*/
+.v-win-titlebar .title {
+	position: absolute;
+	float: left;	
+}
+.v-win-titlebar .buttons {
+	top: -6px; float: right; position: relative;
+}
+.v-win-titlebar .win-min-btn {
+	background-image: url("images/btn-min.png");
+	width: 27px; height: 19px; float: left; display: block;
+}
+.v-win-titlebar .win-max-btn {
+	background: url("images/btn-max.png"); width: 26px; height: 19px; float: left; display: block;
+}
+.v-win-titlebar .win-reg-btn {
+	background: url("images/btn-reg.png"); width: 26px; height: 19px; float: left; display: block;
+}
+.v-win-titlebar .win-close-btn {
+	background: url("images/btn-close.png"); width: 46px; height: 19px; float: left; display: block;
+}
+.v-win-titlebar .win-btn-leftedge {
+	background: url("images/left.png"); width: 2px; height: 19px; float: left;
+}
+.v-win-titlebar .win-btn-rightedge {
+	background: url("images/right.png"); width: 2px; height: 19px; float: left;
+}
+.v-win-titlebar .win-btn-spacer {
+	background: url("images/spacer.png"); width: 1px; height: 19px; float: left;
+}
+.active .v-win-titlebar .win-min-btn {
+	background: url("images/btn-min.png") 0px 38px;
+}
+.active .v-win-titlebar .win-max-btn {
+	background: url("images/btn-max.png") 0px 38px;
+}
+.active .v-win-titlebar .win-reg-btn {
+	background: url("images/btn-reg.png") 0px 38px;
+}
+.active .v-win-titlebar .win-close-btn {
+	background: url("images/btn-close.png") 0px 38px;
+}
+.v-win-titlebar .win-min-btn:hover,
+.v-win-titlebar .win-max-btn:hover,
+.v-win-titlebar .win-reg-btn:hover {
+	background-position: 0px 19px;
+	-moz-box-shadow: 0px 0px 6px 4px rgba(90, 210, 255, 0.4);
+    box-shadow: 0 0 10px #0099FF;
+}
+.v-win-titlebar .win-close-btn:hover {
+	background-position: 0px 19px;
+	-moz-box-shadow: 0px 0px 6px 4px rgba(253, 157, 168, 0.4);
+	box-shadow: 0 0 10px #FF0000;
+}
+.v-window .win-main {
+	background: transparent; padding: 0px; border: 1px solid rgb(0, 0, 0); overflow: auto; font-family: arial;
+	position: absolute;
+	left: 10px;
+	right: 10px;
+	bottom: 10px;
+	top: 50px;
+	overflow: hidden;	 
+}
+.v-window .loading.win-main {
+	background: url("images/loading.gif") no-repeat center rgb(255, 255, 255) !important;
+}

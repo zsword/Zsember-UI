@@ -1,0 +1,285 @@
+.ui-grid-resizable-helper { 
+	border: 2px dotted #00F;
+	border-bottom: none;
+	margin: -1px; 
+	z-index: 150;
+}
+/* Grid Panel
+----------------------------------------------------------------------------------------------------*/
+.v-grid-panel {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
+.v-grid-panel .v-grid {
+	position: absolute;
+	height: auto;
+	bottom: 26px;	
+	top: 0px;
+}
+.v-grid-panel > .v-button-bar,
+.v-grid-panel > .v-form {
+	z-index: 92;
+	border-top: 1px solid #A6C3EB;
+	border-left: 1px solid #A6C3EB;
+	border-right: 1px solid #A6C3EB;
+	display: block;
+	position: relative;	
+}
+.v-grid-panel > .v-form {
+	width: 100%;
+	z-index: 95;
+}
+/* CRUD Grid Panel
+----------------------------------------------------------------------------------------------------*/
+.v-crudgrid-panel > .v-grid {
+	top:60px;
+}
+/* Grid
+----------------------------------------------------------------------------------------------------*/
+.v-grid {
+	position: relative;
+	width:100%;
+	height: 100%;
+	overflow: hidden;
+	border: 1px solid #A6C3EB;
+	background: #fff;
+}
+.v-grid .grid-head {
+	position: relative;
+	width: 100%;
+	background: url("images/grid/grid-bg.png") repeat-x scroll 0 -72px transparent;
+}
+.v-grid .head-space {
+    background: url("images/grid/grid-bg.png") repeat-x scroll 0 -72px transparent;
+    height: 24px;
+    position: absolute;
+    right:0px;
+    top: 1px;    
+    width:19px;
+    border-bottom: 1px solid #D0D0D0;
+    z-index: -100;    
+}
+.v-grid .grid-body {
+	position: absolute;
+	top: 25px;
+	right: 0px;
+	left: 0px;
+	bottom: 0px;
+	overflow: auto;
+}
+.v-grid .grid-row:hover > td {
+	background-color: #A6C3EB;
+}
+.v-grid .grid-row.x-selected > td {
+	background-color: #157FCC;
+	color: #fff;
+} 
+.v-table {
+	border: 1px solid #A6C3EB;
+}
+.v-grid .v-table {
+	table-layout: fixed;
+	border: none;	
+	width: 100%;
+}
+.v-table .header-size-row th {
+	height: 0px;
+	border: none;
+}
+.v-table th {
+    border: 0 none;
+    height: 24px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+.v-table th .ui-resizable-e {
+	cursor: col-resize;
+	border-right: 1px solid #D0D0D0;
+    height: 22px;
+    width: 7px;
+    position: relative;       
+    float: right;
+    margin-top: -24px;
+}
+.v-table th.cell-title {
+    background: url("images/grid/grid-bg.png") repeat-x scroll 0 -72px transparent;
+    font-size: 12px;
+    height: 24px;
+    line-height: 18px;
+    border: 0 none;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+}
+.v-table .cell-text {
+    padding:0 10px;    
+}
+.v-table th.cell-title * {
+	vertical-align: middle;
+}
+.v-table th.cell-title.cell-sort .sort-icon {
+    background-image: url("images/grid/grid-button.png");
+    background-position: -92px 0;
+    background-repeat: no-repeat;
+    margin-left: 5px;       
+    height: 24px;
+    width: 7px;
+}
+.v-table th.cell-title.sort-asc .sort-icon {
+	background-position: -92px -24px; 
+}
+.v-table th.cell-title.sort-desc .sort-icon {
+	background-position: -92px -48px; 
+}
+.v-table td {
+    background-color: #FFFFFF;
+}
+.v-table tr:nth-child(even) td {
+    background-color: #F6F6F6;
+}
+.v-table td {
+    border-color: -moz-use-text-color #EDEDED #EDEDED -moz-use-text-color;	
+    border-style: none solid solid none;
+    border-width: 0 1px 1px 0;
+    line-height: 18px;
+    overflow: hidden;
+    padding: 3px 3px 3px 5px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.v-grid .grid-page {
+    font-size: 0;
+}
+
+/* Pager Bar
+----------------------------------------------------------------------------------------------------*/
+.v-pager-bar {
+    background: url("images/grid/grid-bg.png") repeat-x scroll 0 0 transparent;
+    border-top: 1px solid #A6C3EB;
+    height: 22px;
+    padding: 2px 2px 2px 0;
+    width: 100%;
+    font-size: 12px;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.v-pager-bar .float-left,
+.v-pager-bar .float-right {
+	line-height: 22px;
+	float: left;
+}
+.v-pager-bar .float-right {
+	float: right;
+	margin-right: 5px;
+}
+.v-grid-panel .v-pager-bar {
+	position: absolute;
+	bottom: 0px;
+}
+.v-pager-bar > table {
+    table-layout: auto;
+    width: auto;
+    border-collapse: collapse;
+}
+.v-pager-bar > table td {
+    border: 0 none;
+    line-height: 22px;
+    margin: 0;
+    padding: 0;
+}
+.v-pager-bar .page-button {
+    background-image: url("images/grid/grid-button.png");
+    background-repeat: no-repeat;
+    height: 22px;
+    vertical-align: middle;
+    width: 22px;
+    display: block;
+    cursor: pointer;
+}
+.v-pager-bar .page-first {
+	background-position: -44px 0;
+}
+.v-pager-bar .page-first:hover {
+	background-position: -22px 0;
+}
+.v-pager-bar .page-first.disabled {
+    background-position: 0 0;
+}
+.v-pager-bar .page-prev {
+	background-position: -44px -22px;
+}
+.v-pager-bar .page-prev:hover {
+	background-position: -22px -22px;
+}
+.v-pager-bar .page-prev.disabled {
+	background-position: 0 -22px;
+}
+.v-pager-bar .page-next {
+ 	background-position: -44px -44px;	
+}
+.v-pager-bar .page-next:hover {
+	background-position: -22px -44px;
+}
+.v-pager-bar .page-next.disabled {
+	background-position: 0 -44px;
+}
+.v-pager-bar .page-last {
+	background-position: -44px -66px;	
+}
+.v-pager-bar .page-last:hover {
+	background-position: -22px -66px;
+}
+.v-pager-bar .page-last.disabled {
+	background-position: 0 -66px;
+}
+.v-pager-bar .page-refresh {
+	background-position: -44px -88px;	
+}
+.v-pager-bar .page-refresh:hover {
+	background-position: -22px -88px;
+}
+.v-pager-bar .page-refresh.disabled {
+	background-position: 0 -88px;
+}
+.v-pager-bar .page-size {
+    color: #000000;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+    outline: medium none;
+    padding: 0;
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+.grid-default .grid-page-split-wrap {
+    height: 14px;
+    padding: 4px 3px;
+    width: 2px;
+}
+.grid-default .grid-page-content {
+    vertical-align: middle;
+}
+
+.grid-default .grid-page .cur-page {
+    margin-left: 2px;
+    margin-right: 4px;
+}
+.grid-default .grid-page-number {
+    margin-left: 2px;
+    margin-right: 4px;
+    vertical-align: middle;
+}
+.v-pager-bar .page-split {
+	background: url("images/grid/grid-bg.png") no-repeat scroll 0 -56px transparent;
+	display: block;
+    height: 14px;
+    width: 2px;
+    margin-right: 4px; 
+}

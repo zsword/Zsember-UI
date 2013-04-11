@@ -1,0 +1,74 @@
+[{
+	"title": "快捷方式管理",
+	"iconCls": "shortcuts",
+	"module": "grid-win",
+	"view": "shortcutsMgr"
+},{
+	"title": "开始菜单管理",
+	"iconCls": "startmenus",
+	"module": "grid-win",
+	"view": "startmenusMgr" 
+},{
+	"title": "Google",
+	"iconCls": "google"
+},{
+	"title": "Wikipedia",
+	"iconCls": "wikipedia"
+},{
+	"title": "Soyos Labs",
+	"iconCls": "soyos"
+},{
+	"title": "Soyos on Facebook ABCDEFGHIJKLMN",
+	"iconCls": "facebook"
+},{
+	"title": "Apple",
+	"iconCls": "apple"
+},{
+	"title": "Flickr",
+	"iconCls": "flickr"
+},{
+	"title": "Bing",
+	"iconCls": "bing"
+},{
+	"title": "Ebay",
+	"iconCls": "ebay"
+},{
+	"title": "Wordpress",
+	"iconCls": "wordpress"
+},{
+	"title": "Youtube",
+	"iconCls": "youtube"
+},{
+	"title": "Firefox",
+	"iconCls": "firefox"
+},{
+	"title": "Help & Download",
+	"iconCls": "help"
+},{
+	"title": "部门管理",
+	"iconCls": "groupMgr" 
+},{
+	"title": "职员管理",
+	"iconCls": "staffMgr"
+},{
+	"title": "项目管理",
+	"iconCls": "projectMgr"
+},{
+	"title": "支出管理",
+	"iconCls": "expandMgr"
+},{
+	"title": "收入管理",
+	"iconCls": "incomeMgr"
+},{
+	"title": "预算统计",
+	"iconCls": "budgetMgr"
+},{
+	"title": "任务管理",
+	"iconCls": "taskMgr"
+},{
+	"title": "个人资料",
+	"iconCls": "personInfo"
+},{
+	"title": "退出系统",
+	"iconCls": "logout"
+}]

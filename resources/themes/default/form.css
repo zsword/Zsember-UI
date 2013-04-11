@@ -1,0 +1,185 @@
+/* Forms
+----------------------------------------------------------------------------------------------------*/
+.v-form {
+	background-color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+}
+.v-form .form-fields {
+	padding: 5px;
+}
+.v-form .form-fields .v-button-bar {
+	margin-top: 5px;
+}
+/* Forms Fields
+----------------------------------------------------------------------------------------------------*/
+.v-form-field {
+	display: inline-block;
+	padding: 2px;
+}
+.v-form-field label > *{
+	display: inline-block;	
+}
+/* Text Field
+----------------------------------------------------------------------------------------------------*/
+input.v-textfield {
+    background: url("images/form/input.png") repeat-x scroll 0 0 transparent;
+    border: 1px solid #CCCCCC;
+    height: 20px;
+    line-height: 20px;
+    margin: 0;
+    padding: 1px 3px;
+    vertical-align: middle;
+}
+.v-textfield:hover {
+	box-shadow: 0 0 10px #0099FF;
+}
+.v-textfield:focus {
+    border: 1px solid #FFCC00 !important;	
+}
+/* Number Field
+----------------------------------------------------------------------------------------------------*/
+.v-numberfield > .v-textfield {
+	width: 100px;
+}
+/* Trigger
+----------------------------------------------------------------------------------------------------*/
+.v-trigger {
+	background: url("images/form/trigger.gif") repeat scroll 0 0 transparent;
+    width: 17px;
+    height: 22px;
+    overflow: hidden;
+    border-bottom: 1px solid #B5B8C8;
+    cursor: pointer;
+}
+.v-trigger-over {
+    background-position: -17px 0;
+}
+.v-trigger:focus {
+    background-position: -51px 0;
+}
+.v-trigger:hover {
+    background-position: -68px 0;
+}
+.v-trigger:active {
+    background-position: -34px 0;
+}
+/* DropDown List
+----------------------------------------------------------------------------------------------------*/
+.v-dropdown-list {
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;	
+	position:absolute;
+	z-index: 100;
+}
+.v-dropdown-list > li{
+	padding: 0 4px;
+	margin: 0;
+	list-style: none;
+}
+.v-dropdown-list > li:hover {
+	background-color: #0a246a;
+	color: #ffffff;
+}
+/* Select Field
+----------------------------------------------------------------------------------------------------*/
+.v-selectfield {
+	font-size: 14px;
+}
+.v-selectfield > .v-trigger {
+	float: right;
+	position: absolute;
+	display: inline;	
+	margin-left: -20px;	
+}
+.v-selectfield > select {
+	font-size: 14px;
+	position: relative;
+    background: url("images/form/input.png") repeat-x scroll 0 0 transparent;
+    border: 1px solid #CCCCCC;
+    margin: 0;
+    padding: 1px 0 1px 3px;	
+}
+.v-selectfield > .v-dropdown-list {
+	border: 1px outset;
+	display: none;	
+}
+/* CheckBox Field
+----------------------------------------------------------------------------------------------------*/
+.v-checkbox {
+    background: url("images/form/checkbox.gif") no-repeat scroll 0 0 transparent;
+    height: 13px;
+    width: 13px;
+    display: inline-block;
+    cursor: pointer;
+}
+.v-checkbox > input {
+	display: none;
+}
+.v-checkbox.checked {
+    background-position: 0 -13px;
+}
+.v-checkbox.half_checked {
+    background-position: 0 -26px;
+}
+.v-checkbox:hover {
+	background-position: -26px 0;
+}
+.v-checkbox:focus {
+    background-position: -13px 0;
+}
+.v-checkbox.disabled {
+    background-position: -39px 0;
+}
+.v-checkbox.checked:hover {
+	background-position: -26px -13px;
+}
+.v-checkbox.checked:focus {
+    background-position: -13px -13px;
+}
+.v-checkbox.disabled {
+    background-position: -39px -13px;
+}
+.v-checkbox.half_checked:hover {
+	background-position: -26px -26px;
+}
+.v-checkbox.half_checked:focus {
+    background-position: -13px -26px;
+}
+.v-checkbox.disabled {
+    background-position: -39px -26px;
+}
+/* Radio Field
+----------------------------------------------------------------------------------------------------*/
+.v-radio {
+    background: url("images/form/radio.gif") no-repeat scroll 0 0 transparent;
+    height: 13px;
+    width: 13px;
+    display: inline-block;
+    cursor: pointer;
+}
+.v-radio > input {
+	display: none;
+}
+.v-radio:hover {
+    background-position: -26px 0;
+}
+.v-radio:focus {
+    background-position: -13px 0;
+}
+.v-radio.disabled {
+    background-position: -39px 0;
+}
+.v-radio.checked {
+    background-position: 0 -13px;
+}
+.v-radio.checked:hover {
+    background-position: -26px -13px;
+}
+.v-radio.checked:focus {
+    background-position: -13px -13px;
+}
+.v-radio.disabled {
+    background-position: -39px -13px;
+}

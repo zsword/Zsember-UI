@@ -1,0 +1,106 @@
+/* Tree
+----------------------------------------------------------------------------------------------------
+*/
+.v-tree.line {
+    background: url("images/line/line_conn.gif") repeat-y scroll 0 0 transparent;
+}
+.v-tree li.tree-node {
+    list-style: none outside none;
+    margin: 0;
+    outline: 0 none;
+    padding: 0;
+    text-align: left;
+    white-space: nowrap;
+    line-height: 14px;
+}
+.v-tree li.tree-node * {
+	vertical-align: middle;
+}
+.v-tree li.tree-node a:hover {
+	text-decoration: none;
+}
+.v-tree li.tree-node a:link:hover {
+	text-decoration: underline;
+}
+.v-tree li span.node-icon,
+.v-tree li span.node-handle {
+    background-attachment: scroll;
+    background-color: transparent;
+    background-image: url("images/button/mini-buttons.png");
+    background-repeat: no-repeat;
+    border: 0 none;
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    line-height: 0;
+    margin: 0;
+    outline: medium none;
+    vertical-align: middle;
+    width: 16px;
+}
+.v-tree li span.icon.node-handle {
+    height: 18px;
+    width: 18px;
+}
+.v-tree li.node-expand.is-root > span.node-handle {
+    background-position: -92px -54px;
+}
+.v-tree li.node-collapse.is-root > span.node-handle {
+    background-position: -74px -54px;
+}
+.v-tree li span.button.roots_open {
+    background-position: -92px 0;
+}
+.v-tree li span.button.roots_close {
+    background-position: -74px 0;
+}
+.v-tree li.node-expand > span.node-handle {
+    background-position: -92px -18px;
+}
+.v-tree li.node-collapse > span.node-handle {
+    background-position: -74px -18px;
+}
+.v-tree li.node-expand.is-last > span.node-handle {
+    background-position: -92px -36px;
+}
+.v-tree li.node-collapse.is-last > span.node-handle {
+    background-position: -74px -36px;
+}
+.v-tree.noline li.node-expand > span.node-handle {
+    background-position: -92px -72px;
+}
+.v-tree.noline li.node-collapse > span.node-handle {
+    background-position: -74px -72px;
+}
+.v-tree li span.button.root_docu {
+    background: none repeat scroll 0 0 transparent;
+}
+.v-tree li span.button.roots_docu {
+    background-position: -56px 0;
+}
+.v-tree li.is-leaf > span.node-handle {
+    background-position: -56px -18px;
+}
+.v-tree li.is-leaf.is-last > span.node-handle {
+    background-position: -56px -36px;
+}
+.v-tree.noline li.is-leaf > span.node-handle {
+    background: none repeat scroll 0 0 transparent;
+}
+.v-tree li span.node-icon {
+	margin-right: 2px;
+}
+.v-tree li.node-expand > a > span.node-icon {
+    background-position: -110px -16px;
+}
+.v-tree li.node-collapse > a >span.node-icon {
+    background-position: -110px 0;
+}
+.v-tree li.is-leaf > a > span.node-icon {
+    background-position: -110px -32px;
+}
+.v-tree li.tree-node .node-ctr {
+	vertical-align: middle;
+	cursor: pointer;
+	margin-right: 2px;
+}

@@ -1,0 +1,43 @@
+{
+	"text": "Component Examples",
+	"children": [{
+		"text": "Windows",
+		"children": [{
+			"text": "Window",
+			"action": "window/window.html"
+		},{
+			"text": "Grid Window",
+			"action": "window/grid-window.html"
+		}]
+	},{
+		"text": "Table & Grid",
+		"children": [{
+			"text": "Table",
+			"action": "view/table.html"
+		},{				
+			"text": "Grid Panel",
+			"action": "grid/grid.html"
+		},{
+			"text": "CRUD Grid",
+			"action": "grid/crud-grid.html"
+		}]
+	},{
+		"text": "Form",
+		"children": [{
+			"text": "Model Form",
+			"action": "form/model-form.html"
+		}]
+	},{
+		"text": "Tree",
+		"children": [{
+			"text": "Tree",
+			"action": "tree/tree.html"
+		},{
+			"text": "Checkbox Tree",
+			"action": "tree/checkbox-tree.html"
+		},{
+			"text": "Tree Panel",
+			"action": "tree/tree-panel.html"
+		}]
+	}]
+}

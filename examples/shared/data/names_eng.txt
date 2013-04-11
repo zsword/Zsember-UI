@@ -1,0 +1,426 @@
+Aaron,亚伦
+Abel,亚伯 (Abelard的昵称)
+Abraham,亚伯拉罕
+Adam,亚当
+Adrian,艾德里安
+Alva,阿尔瓦
+Alex,亚历克斯 (Alexander的昵称)
+Alexander,亚历山大
+Alan,艾伦 (常变形为Eilian,、Allan,、Ailin)
+Albert,艾伯特
+Alfred,阿尔弗雷德
+Andrew,安德鲁
+Andy,安迪 (Andrew的昵称)
+Angus,安格斯
+Anthony,安东尼
+Arthur,亚瑟
+Austin,奥斯汀
+Ben,本 (所有Ben,开头名字的昵称)
+Benson,本森
+Bill,比尔
+Bob,鲍伯
+Brandon,布兰登
+Brant,布兰特
+Brent,布伦特
+Brian,布莱恩
+Bruce,布鲁斯
+Carl,卡尔
+Cary,凯里
+Caspar,卡斯帕
+Charles,查尔斯
+Cheney,采尼
+Chris,克里斯 (Christian Christopher的昵称)
+Christian,克里斯蒂安
+Christopher,克里斯多夫
+Colin,科林
+Cosmo,科兹莫
+Daniel,丹尼尔
+Dennis,丹尼斯
+Derek,德里克
+Donald,唐纳德
+Douglas,道格拉斯
+David,大卫
+Denny,丹尼
+Edgar,埃德加
+Edward,爱德华
+Edwin,艾德文
+Elliott,艾略特
+Elvis,埃尔维斯
+Eric,埃里克 (Frederick的昵称)
+Evan,埃文
+Francis,弗朗西斯
+Frank,弗兰克 (Francis Franklin的昵称)
+Franklin,富兰克林
+Fred,弗瑞德
+Gabriel,加百利
+Gaby,加比 (Gabriel的昵称)
+Garfield,加菲尔德
+Gary,加里
+Gavin,加文
+George,乔治
+Gino,基诺
+Glen,格林
+Glendon,格林顿
+Harrison,哈里森
+Hugo,雨果
+Hunk,汉克
+Howard,霍华德
+Henry,亨利
+Ignativs,伊格纳缇伍兹 (其变形为Ignace,伊格纳茨、Ignatz,伊格纳兹)
+Ivan,伊凡
+Isaac,艾萨克
+Jack,杰克
+Jackson,杰克逊
+Jacob,雅各布
+James,詹姆士 (Jacob的英文形式)
+Jason,詹森
+Jeffery,杰弗瑞
+Jerome,杰罗姆
+Jerry,杰瑞 (Gerald,，Jeremiah,，Jerome的昵称)
+Jesse,杰西
+Jim,吉姆 (James的昵称)
+Jimmy,吉米 (James的昵称)
+Joe,乔 (Joseph的昵称)
+John,约翰
+Johnny,约翰尼(亦译为：乔尼)
+Joseph,约瑟夫
+Joshua,约书亚
+Justin,贾斯汀
+Keith,凯斯
+Ken,肯 (Ken,结尾名字的昵称)
+Kenneth,肯尼斯
+Kenny,肯尼 (Kenneth的昵称)
+Kevin,凯文
+Lance,兰斯
+Larry,拉里 (Lawrence的昵称)
+Laurent,劳伦特
+Lawrence,劳伦斯
+Leander,利安德尔
+Lee,李
+Leo,雷欧 (Leander,，Leonard,，Leopold的昵称)
+Leonard,雷纳德
+Leopold,利奥波特
+Loren,劳伦 (同Lauren)
+Lori,劳瑞 (同Lorry)
+Lorin,劳瑞恩
+Luke,卢克 (亦译为：路加)
+Marcus,马库斯
+Marcy,马西
+Mark,马克
+Marks,马科斯
+Mars,马尔斯
+Martin,马丁
+Matthew,马修
+Michael,迈克尔
+Mike,麦克
+Neil,尼尔
+Nicholas,尼古拉斯
+Oliver,奥利弗
+Oscar,奥斯卡
+Paul,保罗
+Patrick,帕特里克 (亦译为：派翠克)
+Peter,彼得
+Philip,菲利普
+Phoebe,菲比
+Quentin,昆廷
+Randall,兰德尔(同Randal)
+Randolph,伦道夫
+Randy,兰迪 (Randall Randolph的昵称)
+Reed,列得
+Rex,雷克斯
+Richard,理查德
+Richie,里奇 (同Rick,、Ricky,、Ritchie,。)
+Robert,罗伯特
+Robin,罗宾 (Robert,、Robinson的昵称)
+Robinson,罗宾逊(亦译为：鲁宾逊)
+Rock,洛克
+Roger,罗杰
+Roy,罗伊
+Ryan,赖安
+Sam,萨姆 (Samson Samuel的昵称，亦译为：山姆)
+Sammy,萨米 (Samson Samuel的昵称)
+Samuel,塞缪尔
+Scott,斯考特
+Sean,肖恩 (John的爱尔兰形式)
+Shawn,肖恩 (同Sean)
+Sidney,西德尼
+Simon,西蒙
+Solomon,所罗门
+Spark,斯帕克
+Spencer,斯宾塞
+Spike,斯派克
+Stanley,斯坦利
+Steven,史蒂文 (同Stephen)
+Stuart,斯图亚特
+Terence,特伦斯
+Terry,特里 (Terence的昵称)
+Timothy,蒂莫西
+Tommy,汤米 (Thomas的昵称)
+Tom,汤姆 (Thomas的昵称)
+Thomas,托马斯
+Tony,托尼 (Anthony的昵称)
+Tyler,泰勒
+Van,范
+Vern,弗恩 (Vernon的昵称)
+Vernon,弗农
+Vincent,文森特
+Warren,沃伦
+Wesley,卫斯理
+William,威廉
+Abigail,阿比盖尔
+Abby,艾比 (Abigail的简写)
+Ada,艾达 (Adelaide的简写)
+Adelaide,阿德莱德
+Adeline,艾德琳
+Alexandra,亚历桑德拉
+Ailsa,艾丽莎
+Aimee,艾米
+Alice,爱丽丝
+Alina,艾琳娜
+Allison,艾莉森
+Amanda,阿曼达
+Amy,艾美
+Amber,安伯
+Anastasia,阿纳斯塔西娅 (昵称Stacey)
+Andrea,安德莉亚
+Angela,安吉拉
+Angelia,安吉莉亚
+Angelina,安吉莉娜
+Ann,安 (Hannah的英文形式)
+Anne,安妮 (同Ann)
+Annie,安妮 (Ann的昵称)
+Anita,安尼塔 (Ann的西班牙写法)
+Ariel,艾莉尔
+April,阿普里尔
+Ashley,艾许莉
+Aviva,阿维娃 (同Avivahc,和Avivi)
+Barbara,笆笆拉
+Beata,贝亚特
+Beatrice,比阿特丽斯 (同Beatrix)
+Becky,贝基 (Rebecca的昵称)
+Betty,贝蒂 (Elizabeth的昵称)
+Blanche,布兰奇
+Bonnie,邦妮
+Brenda,布伦达 (Brandon,及Brendan的女性形式)
+Camille,卡米尔
+Candice,莰蒂丝
+Carina,卡瑞娜
+Carmen,卡门
+Carol,凯罗尔
+Caroline,卡罗琳
+Carry,凯丽
+Carrie,凯莉 (Carol,及Caroline的昵称，同Kerry)
+Cassandra,卡桑德拉
+Cassie,凯西 (Catherine,，Cassandra的昵称)
+Catherine,凯瑟琳 (Katherine的英文形式，同Katherine)
+Cathy,凯茜 (Catherine的昵称，同Kathy)
+Chelsea,切尔西
+Charlene,沙琳 (同Caroline Charlotte)
+Charlotte,夏洛特
+Cherry,切莉
+Cheryl,雪莉尔 (Charlotte的另一形式，亦同Sheryl)
+Chris,克莉丝 （Christine,，Kristine的简写，同Kris,）
+Christina,克里斯蒂娜 (同Christine)
+Christine,克里斯汀
+Christy,克里斯蒂 (Christine的简写)
+Cindy,辛迪 (Cinderella Cynthia Lucinda的昵称)
+Claudia,克劳迪娅
+Clement,克莱门特
+Cloris,克劳瑞丝
+Connie,康妮 (Constance的昵称)
+Constance,康斯坦斯
+Cora,科拉
+Corrine,科瑞恩
+Crystal,科瑞斯特尔 (同Krystal)
+Daisy,戴茜
+Daphne,达芙妮
+Darcy,达茜
+Debbie,黛比 (Deborah,，Debra的昵称)
+Deborah,黛博拉
+Debra,黛布拉
+Demi,黛米
+Diana,黛安娜
+Dolores,德洛丽丝
+Donna,堂娜
+Doris,桃瑞丝
+Edith,伊迪丝
+Editha,伊迪萨
+Elaine,伊莱恩
+Eleanor,埃莉诺
+Elizabeth,伊丽莎白
+Ella,埃拉
+Ellen,爱伦
+Ellie,艾莉 (Eleanor  Ellen的昵称)
+Emerald,艾米瑞达
+Emily,艾米丽
+Emma,艾玛
+Enid,伊妮德
+Elsa,埃尔莎 (Elizabeth的昵称)
+Erica,埃莉卡 (Eric的女性形式)
+Estelle,爱斯特尔
+Esther,爱丝特
+Eudora,尤杜拉
+Eva,伊娃
+Eve,伊芙
+Fannie,芬妮 (同Frances Fanny)
+Fiona,菲奥纳
+Frances,弗郎西丝 (Francis的女性形式)
+Frederica,弗雷德里卡
+Frieda,弗里达
+Gina,吉娜 (Angelina,，Regina的昵称)
+Gillian,吉莉安 (Juliana的异体)
+Gladys,格拉蒂丝 (Claudia的威尔斯形式)
+Gloria,格罗瑞娅
+Grace,格瑞丝
+Greta,格瑞塔 (Margaret的昵称)
+Gwendolyn,格温多琳
+Hannah,汉娜
+Helena,海伦娜
+Hellen,海伦 (亦作：Helen)
+Hebe,赫柏
+Heidi,海蒂 (Adalheid  Adelaide的昵称)
+Ingrid,英格丽德
+Ishara,爱沙拉
+Irene,艾琳
+Iris,艾丽丝
+Ivy,艾维
+Jacqueline,杰奎琳
+Jamie,詹米 (James的女性形式)
+Jane,简 (John的女性名词)
+Janet,珍妮特 (同Jane)
+Jean,姬恩 (Jane的苏格兰形式)
+Jessica,杰西卡 (Jessee的女子形式)
+Jessie,杰西 (Jasmine  Jessica的昵称; Janet的苏格兰形式)
+Jennifer,詹妮弗
+Jenny,詹妮 (同Jennie,；Jane Jennifer的昵称)
+Jill,姬尔 (Gillian的昵称)
+Joan,琼 (同Jane,；John的女性形式)
+Joanna,乔安娜
+Jocelyn,乔斯林
+Josephine,约瑟芬
+Josie,乔茜(同Josephine)
+Joy,乔伊
+Joyce,乔伊斯 (Josephine的昵称)
+Judith,朱迪丝
+Judy,朱蒂 (Judith的昵称)
+Julia,朱莉娅
+Juliana,朱莉安娜
+Julie,朱莉
+June,朱恩
+Karen,凯琳 (Katherine的丹麦形式)
+Karida,卡瑞达
+Katherine,凯瑟琳 (同Catherine)
+Kate,凯特 (Katherine的昵称)
+Kathy,凯西 (Katherine Katherleen的昵称；同Cathy  Kathie)
+Katrina,卡特里娜
+Kay,凯 (Katherine的昵称；同Kaye)
+Kelly,凯莉
+Kitty,基蒂 (Catherine的昵称)
+Lareina,莱瑞拉
+Laura,劳拉 (Lawrence的女性形式)
+Lena,莉娜 (Helena的昵称)
+Lydia,莉迪娅
+Lillian,莉莲 (亦作lilian)
+Linda,琳达
+Lisa,丽莎 (Elizabeth的别名)
+Liz,莉兹 (Elizabeth的昵称)
+Lorraine,罗琳
+Louisa,路易莎
+Louise,路易丝
+Lucia,露西娅
+Lucy,露茜
+Lucine,露西妮
+Lulu,露露 (Louise Louisa的昵称)
+Lynn,林恩
+Maggie,玛姬 (Margaret的昵称)
+Mamie,玛米 (Margaret  Mary, 的昵称)
+Manda,曼达
+Mandy,曼迪 (Amanda Manda Melinda的昵称)
+Margaret,玛格丽特
+Mariah,玛丽亚 (同Mary)
+Martha,玛莎
+Mary,玛丽
+Matilda,玛蒂尔达
+Maureen,莫琳
+Mavis,梅维丝
+Maxine,玛克辛
+May,梅
+Mayme,梅米
+Megan,梅甘
+Melinda,梅琳达
+Melissa,梅利莎
+Melody,美洛蒂
+Mercedes,默西迪丝
+Meredith,梅瑞狄斯
+Michelle,米歇尔 (Michael的女性形式)
+Milly,米莉 (Camille,，Emily,，Melissa的简称)
+Miranda,米兰达
+Miriam,米里亚姆
+Miya,米娅
+Molly,茉莉
+Monica,莫尼卡
+Nancy,南茜 (Nan的别名)
+Natalie,娜塔莉
+Natasha,娜塔莎 (亦作natascha))
+Nicole,妮可
+Nikita,尼基塔
+Nina,尼娜 (Anna的昵称)
+Olina,奥琳娜
+Oprah,奥帕 (同Opera Opie)
+Pamela,帕梅拉
+Paula,保拉
+Pauline,波琳 (同Paula)
+Pearl,珀尔
+Peggy,帕姬 (Margaret的昵称)
+Philomena,菲洛米娜
+Phoebe,菲比
+Phyllis,菲丽丝
+Polly,波莉
+Priscilla,普里西拉
+Quentina,昆蒂娜 (Quentin的女性形式)
+Rachel,雷切尔
+Rebecca,丽贝卡
+Regina,瑞加娜
+Rita,丽塔 (Margaret的昵称)
+Rose,罗丝
+Roxanne,洛克萨妮
+Ruth,露丝
+Sabrina,萨布丽娜
+Sandra,桑德拉 (Alexandra的昵称)
+Samantha,萨曼莎
+Sandy,桑迪 (Andra的昵称)
+Sarah,莎拉
+Selma,塞尔玛
+Selina,塞琳娜
+Serena,塞丽娜
+Sharon,莎伦 (同Sarah)
+Sheila,希拉
+Shelley,雪莉 (同Sheila Shelby Shirley)
+Sherry,雪丽 (同Charlotte Cher Sarah Shirley)
+Shirley,雪莉
+Silvia,西尔维亚
+Sonia,索尼亚
+Stacy,丝塔茜 (Anastasia的昵称)
+Stella,丝特拉 (Estelle的昵称)
+Stephanie,斯蒂芬妮
+Sue,苏 (Susan的昵称)
+Sunny,萨妮 (Sonia的昵称)
+Susan,苏珊
+Tamara,塔玛拉
+Tammy,苔米 (Tamara的昵称)
+Tess,苔丝 (Tessa Teresa的昵称)
+Teresa,特莉萨
+Tiffany,蒂凡妮
+Tina,蒂娜
+Tracy,特蕾西
+Vanessa,温妮莎
+Vicky,维姬 (Victoria的昵称)
+Victoria,维多利亚
+Vivian,薇薇安
+Wanda,旺达
+Wendy,温蒂 (Gwendolyn Wanda的昵称)
+Winnie,温妮
+Yolanda,尤兰达
+Yvette,伊薇特 (同Yvonne)
+Yvonne,伊温妮
+Zoey,佐伊 (同Zoe)
