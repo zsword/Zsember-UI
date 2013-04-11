@@ -15,7 +15,12 @@ AppCore.defineStore('AppShortcuts', {
 				widget: 'shortcutsMgr',
 				module: 'grid-win',
 				iconCls: 'shortcut'
-			}];
+			},{
+				title: 'Zsember-UI',
+				url: 'git-project.html',
+				module: 'iframe-win',
+				iconCls: 'computer'
+			}];			
 			me.bufferData = data;
 		}
 	}

@@ -28,4 +28,5 @@ AppCore.defineModel('desktop.Shortcut', {
 		'comment': '排序',
 		type: 'number'
 	}]
+	
 });

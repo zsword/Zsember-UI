@@ -12,7 +12,7 @@ Zsember.defineNS('desktop.StartMenu', {
 	template: ['<ul class="menu-items">{{#each view.store.data}}',
 	    '<li class="menu-item"><a {{bindAttr rel="module" rev="this.view" href="action"}}><img {{bindAttr class=":menu-icon iconCls" src="icon"}} /><span>{{title}}</span></a></li>',
 	    '{{/each}}</ul><div style="position: absolute; left: 300px; top: 50px;">',
-	    '<iframe scrolling="no" frameborder="0" style="overflow:hidden;width:100px;height:65px;" src="http://www.facebook.com"></iframe>',
+	    '<iframe scrolling="no" frameborder="0" style="overflow:hidden;width:100px;height:65px;" src="git-project.html"></iframe>',
 	    '</div>'],
 	initComponent: function() {
 		var me = this;

@@ -11,7 +11,7 @@ Zsember.defineDesktop('module.IframeWindow', {
 	id: 'iframe-win',
 	createView: function(cfg) {
 		var url = cfg.url;
-		url = (url.indexOf('://')==-1)? 'http://'+url:url;
+		//url = (url.indexOf('://')==-1)? 'http://'+url:url;
 		cfg = {
 			widget: 'component',
 			tagName: 'iframe',
