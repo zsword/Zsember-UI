@@ -17,7 +17,7 @@ define(function(require, exports, module) {
 	require('handlebars');
 	require.async(['jquery.easing.1.3',
 	    'jquery-ui/jquery-ui-1.10.1.min',
-		'ember-1.0.0-rc.1.min'], function() {
+		'ember-1.0.0-rc.2.min'], function() {
 		require.async(['{Zsember}/Core'], function() {
 			var BaseModules = Zsember.to(['button.AlinkButton']);
 			var title = document.title;
