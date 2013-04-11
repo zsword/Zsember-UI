@@ -28,7 +28,7 @@ Zsember.defineNS('desktop.Shortcut', {
 		if(!data.icon) {
 			var iconCss = $icon.css('backgroundImage');
 			iconCss = iconCss.replace(/url\(['"]?([^'"\(\)]+)['"]?\).*/g, '$1');
-			data.icon = iconCss;
+			data.icon = iconCss;			
 		}		
 		me.callSuper();
 	},	

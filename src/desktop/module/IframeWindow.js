@@ -10,19 +10,18 @@ Zsember.defineDesktop('module.IframeWindow', {
 	alias: 'widget.iframeWindow',
 	id: 'iframe-win',
 	createView: function(cfg) {
-		cfg.widget = cfg.widget||cfg.view;
 		var url = cfg.url;
 		url = (url.indexOf('://')==-1)? 'http://'+url:url;
-		return Zsember.widget('window', {
+		cfg = {
+			widget: 'component',
+			tagName: 'iframe',
+			fitView: true,
+			attributeBindings: ['src'],
+			src: url,
 			title: cfg.title,
-			iconCls: cfg.iconCls,			
-			items: [{
-				widget: 'component',
-				tagName: 'iframe',
-				fitView: true,
-				attributeBindings: ['src'],
-				src: url
-			}]
-		});
+			iconCls: cfg.iconCls,
+			icon: cfg.icon
+		};
+		return this.callSuper(cfg);
 	}	
 });

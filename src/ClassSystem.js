@@ -23,6 +23,7 @@ _global.debugLog = debugLog;
 /** define utils
 ------------------------------ */	
 var EmptyFn = function(){};
+exports.FalseFn = function(){return false;}
 function isNormalValue(obj) {
 	var type = typeof obj;
 	return /string|number|boolean/g.test(type);

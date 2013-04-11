@@ -50,6 +50,8 @@ Zsember.defineNS('desktop.Desktop', {
 		me.configDesktop();
 		var shortcuts = me.shortcuts;
 		shortcuts = me.shortcuts = Zsember.store(shortcuts);
+		var container = me.container;
+		$(container).on('contextmenu', Zsember.FalseFn);
 		me.desktop = Zsember.widget('container', {
 			classNames: 'v-desktop-container',
 			items: [{

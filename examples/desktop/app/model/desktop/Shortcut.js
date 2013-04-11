@@ -7,7 +7,10 @@ AppCore.defineModel('desktop.Shortcut', {
 	},{
 		'name': 'iconCls',
 		'comment': '图标',
-		filter: false
+		filter: false,
+		editor: {
+			xtype: 'desktopIconClsSel'
+		}	
 	},{
 		'name': 'url',
 		'comment': '链接'		

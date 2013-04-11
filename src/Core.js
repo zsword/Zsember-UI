@@ -53,7 +53,7 @@ var Zsember = _global[LIB] = {
 	isFunction: isFunction
 };
 var _CoreUtils = ['EmptyFn', 'isNumber', 'apply', 'proxyFn',
-    'isBlank',
+    'isBlank', 'FalseFn',
     'Arrays', 'isNormalValue', 'JsonUtils', 'StorageUtils', 'Cookies',
     'renderTplHtml', 'renderCheckbox', 'renderRadio',
     'Object', 'CommonObject', 'ModelBase', 'StoreBase',

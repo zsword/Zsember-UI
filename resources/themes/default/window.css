@@ -6,7 +6,8 @@
 	overflow: hidden; 
 	display: block; 
 	position: absolute; 
-	-moz-border-radius: 10px;	
+	-moz-border-radius: 10px;
+	z-index: 50;	
 }
 .v-window.full_window {
 	left: 0px;
@@ -44,7 +45,7 @@
 .active.v-window {
 	background: url("images/active/lines.png") 0px -400px;
 	position: absolute; 
-	z-index: 98;
+	z-index: 80;
 }
 .active.v-window .table-tl {
 	background: url("images/active/tl.png"); width: 9px; height: 9px;
